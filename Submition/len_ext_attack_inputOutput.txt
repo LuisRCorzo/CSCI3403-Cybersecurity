@@ -1,3 +1,0 @@
-jovyan@jupyter-aaeh2224:~/CSCI 3403/IntroToCyberSecurity/proj1$ python3 len_ext_attack.py 'https://csci3403.com/proj1/api?token=1e755d78dcb4d783b2573b8d04fcc48a&user=admin&command1=ListFiles&command2=NoOp'
-
-b'<h1>Hi admin!</h1><h2>Executing ListFiles . . . </h2>VeryImportDocuments.docx</br>SuperSecretFiles.txt</br>SecurityClassGrades.xlsx</br>password.txt</br>id_rsa</br><h2>Executing NoOp\x80\x00\x00\x00\x00\x98\x01\x00\x00\x00\x00\x00\x00 . . . </h2><h2>Executing DeleteAllFiles . . . </h2>All your files are gone.  Have a nice day!</br>'
