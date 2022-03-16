@@ -1,0 +1,38 @@
+Part 1.
+
+IP: 10.0.2.1
+MAC: 00:26:08:e5:66:07
+Purpose: DNS Server
+
+IP: 10.0.2.2
+MAC: 04:0c:ce:d8:0f:fa
+Purpose:Computer, Macintosh; Intel Mac OS x 10.8
+
+IP: 10.0.2.3
+MAC: 04:0c:ce:d8:0f:fa
+Purpose:Computer, Windows NT 6.1; WOW64
+
+Part 2
+
+a) IP: 194.109.21.66, Host name: GSSAPI
+b) One vulnerability is that we can view the entire authentication process. 
+	We have access now to both the use name and password of the user.
+c) Two other protocols we can use is FTP/SSL or just call FTPS. PLain FTP over TSL/SSL channel.
+	We can also use SFTP, SSH File Transfer Protocol
+
+Part 3
+a) gmail.com
+b) VPNs can be used to protect agains this domain name leak.
+c) Number of Cipher suites the client supports: (36 Suites)
+d) Uses Cipher Suite: TLS_RSA_WITH_RC4_128_SHA (0x0005)
+e) Verified by Google Internet Authority, Google Inc; USA
+
+Part 4
+a)Uses cookies to request URL pages. Each time the page is accesed the same cookie data is being used  
+b)An attacker could take these cookies which identify an indivdual user and use it for themselves. 
+	This could trick the website into thinking the attacker is the user. 
+c)The user can clear the history and cookies
+d)They visited the Aljazeera English news page on Facebook. Also visited the games page and played a zombie game.
+	Visited the profile of Dr. Zakir Naik from Mumbai, India, Visted his profile, timeline, and cover photo.
+	
+	
